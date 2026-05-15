@@ -76,3 +76,6 @@ Jal Sanchay Tracker is a simple and practical Android application that demonstra
 ---
 Developer
 Developed as part of Android App Development Internship Project.
+Name - Sumit Babushetty
+College - East West Institute of Technology
+USN - 1EW22IC054
